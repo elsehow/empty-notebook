@@ -2,6 +2,6 @@
 
 an empty jupyter notebook project
 
-# install
+# run
 
-`bash setup.sh`
+`nix-shell shell.nix`
